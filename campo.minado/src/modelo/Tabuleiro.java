@@ -68,7 +68,7 @@ public class Tabuleiro implements CampoObservador{
 			}
 		}
 	}
-	//
+	
 	private void sortearMinas() {
 		long minasArmadas = 0;
 		Predicate<Campo> minado = c -> c.isMinado();
