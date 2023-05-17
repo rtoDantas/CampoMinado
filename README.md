@@ -1,6 +1,7 @@
 <html>
 <body>
   <h1>Campo Minado</h1>
+  <img src="https://github.com/rtoDantas/CampoMinado/assets/118134112/10babc6b-0f90-4b5d-891b-406aa86a3be2" width="500" />
   <h2>Objetivo</h2>
   <p>Este é um jogo básico de Campo Minado implementado em Java. O objetivo do jogo é desvendar todas as células vazias no campo, evitando as células que contêm minas.</p>
   <h2>Funcionalidades</h2>
